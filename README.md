@@ -1,5 +1,6 @@
 # Generating Mathematical Artwork For NFTs Through Samila And Python
 
+![Generating Mathematical Artwork For NFTs Through Samila And Python](https://github.com/PragyanSubedi/generative-art-using-samila/blob/master/images/Generating%20Mathematical%20Artwork%20For%20NFTs%20Through%20Samila%20And%20Python.png)
 
 Learn to generate mathematical artwork for NFTs through Samila And Python.
 
